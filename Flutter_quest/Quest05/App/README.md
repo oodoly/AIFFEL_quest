@@ -1,3 +1,3 @@
 * pubspec.yaml
-* main.dart
+* lib/main.dart
 * assets/image/jellyfish.jpg
